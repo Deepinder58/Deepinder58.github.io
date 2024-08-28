@@ -2,14 +2,14 @@ $(document).ready(function() {
   // MODAL
   var modalText = {
     discover: {
-      title: 'AdventureWork Report ',
+      title: 'Maven Market Report',
       tag: 'Report Dashboard.',
       detail:
         '•	Developed interactive Power BI dashboards for AdventureWorks, focusing on sales trends, customer insights, and product performance',
-      link: ''
+      link: 'https://app.powerbi.com/groups/me/reports/e539e4db-5554-43d2-b218-c63739750d2f?pbi_source=desktop'
     },
     ordering: {
-      title: 'Maven Market Report',
+      title: 'AdventureWork Report',
       tag: '•	Gained valuable experience in transforming raw data into actionable insights.',
       detail:
         '•	Implemented DAX for custom metrics and ensured the dashboards were user-friendly for non-technical users',
