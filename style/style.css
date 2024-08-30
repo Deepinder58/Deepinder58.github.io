@@ -578,7 +578,7 @@ section:nth-of-type(2) .bar {
   align-items: flex-end;
   background-color: #eee;
   color: #666;
-  font-size: 7pt;
+  font-size: 5pt;
   height: 22px;
   margin: 0 0 12px 0;
   position: relative;
