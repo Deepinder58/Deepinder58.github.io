@@ -6,7 +6,7 @@ $(document).ready(function() {
       tag: 'Report Dashboard.',
       detail:
         '•	Developed interactive Power BI dashboards for AdventureWorks, focusing on sales trends, customer insights, and product performance',
-      link: 'https://app.powerbi.com/groups/me/reports/e539e4db-5554-43d2-b218-c63739750d2f?pbi_source=desktop'
+      link: 'https://app.powerbi.com/view?r=eyJrIjoiZmUzNzUxYzktNzM0OS00YzkxLWE4MjAtNTliYWRiNzEwYjQ4IiwidCI6Ijc3NDdlZjNhLTkyNGItNDljYy04YzhhLWZkNGZhMGUwNGRkYyIsImMiOjZ9&pageName=ReportSection'
       
     },
     ordering: {
@@ -21,7 +21,7 @@ $(document).ready(function() {
       tag: '•	Gained valuable experience in transforming millions of raw data into actionable insights.',
       detail:
         'I have Created Netfilx & Amazon Prime Dashboard which will show you Overall Performance of Their Shows and Movies',
-      link: 'https://app.powerbi.com/groups/me/reports/67ea2c63-6004-4727-8095-89853b79dd1f/0022328c660ada1991ac?experience=power-bi'
+      link: 'https://app.powerbi.com/view?r=eyJrIjoiMmNhOTMyZTctMmRiMy00NWIyLTlkNTUtMjk5NDY4ZmYxOGI3IiwidCI6Ijc3NDdlZjNhLTkyNGItNDljYy04YzhhLWZkNGZhMGUwNGRkYyIsImMiOjZ9'
     },
     brave: {
       title: 'Brave Creators',
