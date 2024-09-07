@@ -6,7 +6,7 @@ $(document).ready(function() {
       tag: 'Report Dashboard.',
       detail:
         '•	Developed interactive Power BI dashboards for AdventureWorks, focusing on sales trends, customer insights, and product performance',
-      link: 'https://app.powerbi.com/groups/me/reports/e539e4db-5554-43d2-b218-c63739750d2f?pbi_source=desktop'
+      link: ''
       
     },
     ordering: {
@@ -21,7 +21,7 @@ $(document).ready(function() {
       tag: '•	Netflix Analytics',
       detail:
         'Points out that the report is focused on analyzing Netflix data, which is relevant to media and streaming industry professionals.',
-      link: 'https://app.powerbi.com/groups/me/reports/67ea2c63-6004-4727-8095-89853b79dd1f/0022328c660ada1991ac?experience=power-bi'
+      link: ''
     },
     brave: {
       title: 'Amazon Prime Report',
