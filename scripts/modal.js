@@ -44,7 +44,7 @@ $(document).ready(function() {
         'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
       link: 'http://www.powur.com/with/42'
     },
-   stand: {
+    mystand: {
       title: 'Olympics 2024',
       tag: 'Medals & Athelets Analytics.',
       detail:
