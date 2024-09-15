@@ -44,11 +44,11 @@ $(document).ready(function() {
         'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
       link: 'http://www.powur.com/with/42'
     },
-    mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
+   stand: {
+      title: 'Olympics 2024',
+      tag: 'Medals & Athelets Analytics.',
       detail:
-        'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.'
+        'I have created an Olympics 2024 Dashboard with the help of PowerBi and Kaggle Dataset. I have shown various report analyzes aspects of Different Players Receving Medals at thier Sports'
     },
     never: {
       title: 'NeverSurrender',
