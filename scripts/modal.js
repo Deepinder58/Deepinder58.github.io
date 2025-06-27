@@ -38,11 +38,11 @@ $(document).ready(function() {
         link:''
     },
     powur: {
-      title: 'Powur.com',
-      tag: 'CONSUMER POWERED MARKETING.',
+      title: 'IIIM Servers Monitoring Dashboard',
+      tag: 'LIVE SERVER MONITORING SYSTEM.',
       detail:
-        'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+        '• Developed and deployed a Smart Log Analysis System to automate log ingestion, cleaning, and transformation, reducing preprocessing time by over 70% and enhancing data readiness for analysis.Created real-time threat detection dashboards integrated with an alerting mechanism, significantly improvingresponse time to critical network events and anomalies.',
+      link: ''
     },
     mystand: {
       title: 'Olympics 2024',
