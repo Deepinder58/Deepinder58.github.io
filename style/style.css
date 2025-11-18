@@ -178,8 +178,8 @@ body {
   transition: all 0.5s;
 }
 .button:hover {
-  background-color: #04c2c9;
-  border-color: #04c2c9;
+  background-color: #1e88e5;
+  border-color: #1e88e5;
 }
 .button .mdi {
   vertical-align: middle;
@@ -211,7 +211,7 @@ body {
 }
 
 .hexagon {
-  background-color: #04c2c9;
+  background-color: #1e88e5;
   display: inline-block;
   height: 100%;
   width: 57.735%;
@@ -240,11 +240,11 @@ body {
 }
 
 .highlight {
-  color: #e31b6d;
+  color: #1e88e5;
 }
 
 .header {
-  color: #444649;
+  color: #1e88e5;
   font-family: "raleway-bold";
   font-size: 25pt;
   position: relative;
@@ -252,7 +252,7 @@ body {
 }
 
 .header-bar {
-  background: #444649;
+  background: #1e88e5;
   height: 4px;
   margin: 25px 0 75px 0;
   width: 70px;
@@ -272,8 +272,8 @@ nav {
   bottom: 0;
   left: 0;
   position: absolute;
-  background: #1b242f;
-  border-bottom: 3px solid #04c2c9;
+  background: #0a1a2f ;
+  border-bottom: 3px solid #1e88e5;
   height: 50px;
   text-align: left;
   width: 100%;
@@ -312,7 +312,7 @@ nav .link-wrap div:first-child {
   padding: 25px 20px 12px 20px;
 }
 nav .link-wrap div:hover {
-  color: #e31b6d;
+  color: #1e88e5;
 }
 nav .mdi-menu {
   font-size: 30pt;
@@ -323,7 +323,7 @@ nav .mdi-menu {
   top: 0;
 }
 nav .active {
-  color: #e31b6d;
+  color: #1e88e5;
 }
 
 .carousel-wrap {
@@ -418,7 +418,7 @@ nav .active {
   right: 10px;
 }
 .modal-wrap .info-box {
-  border-top: 3px solid #1b242f;
+  border-top: 3px solid #0a1a2f ;
   box-sizing: border-box;
   color: #444;
   padding: 15px 10px 85px 10px;
@@ -448,7 +448,7 @@ nav .active {
   position: relative;
 }
 .modal-wrap .button {
-  background: #e31b6d;
+  background: #1e88e5;
   border: 0;
   bottom: 20px;
   color: #fff;
@@ -468,7 +468,7 @@ nav .active {
 }
 .modal-wrap .button:hover {
   background: #fff;
-  color: #e31b6d;
+  color: #1e88e5;
 }
 .modal-wrap .carousel {
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25);
@@ -541,7 +541,7 @@ section:nth-of-type(2) .bullet-wrap {
   padding: 0 7px;
 }
 section:nth-of-type(2) .highlight {
-  color: #009ada;
+  color: #1e88e5;
 }
 section:nth-of-type(2) .up-arrow {
   height: 30px;
@@ -620,7 +620,7 @@ section:nth-of-type(2) .bar.fill {
   left: 0;
   position: absolute;
   top: 0;
-  background-color: #00a1a7;
+  background-color: #0a1a2f;
   opacity: 1;
   padding: 0;
 }
@@ -628,17 +628,17 @@ section:nth-of-type(2) .bar .tag {
   left: 0;
   position: absolute;
   top: 0;
-  background-color: #04c2c9;
+  background-color: #1e88e5;
   color: #fff;
   height: 100%;
   width: 110px;
-  width: 70px;
+  width: 90px;
 }
 section:nth-of-type(2) .bar.secondary {
-  background-color: #c51675;
+  background-color: #1e88e5;
 }
 section:nth-of-type(2) .bar.secondary .tag {
-  background-color: #e31b6d;
+  background-color: #1e88e5;
 }
 section:nth-of-type(2) .bar span {
   padding: 0 15px 0 0;
@@ -666,7 +666,7 @@ section:nth-of-type(3) .float-bar {
   left: 30px;
   position: absolute;
   top: 0;
-  background: #e31b6d;
+  background: #1e88e5;
   border-radius: 1px;
   height: 25px;
   margin: auto 0;
@@ -696,7 +696,7 @@ section:nth-of-type(3) #gallery {
 }
 section:nth-of-type(3) #gallery .text,
 section:nth-of-type(3) #gallery .button {
-  color: #1b242f;
+  color: #0a1a2f ;
   opacity: 0;
   text-align: center;
   transition: all 0.3s ease-in-out;
@@ -711,7 +711,7 @@ section:nth-of-type(3) #gallery .button {
   left: 0;
   position: absolute;
   right: 0;
-  border: 2px solid #e31b6d;
+  border: 2px solid #1e88e5;
   font-size: 13pt;
   margin: 0 auto;
   padding: 7px 0;
@@ -725,7 +725,7 @@ section:nth-of-type(3) #gallery .mix .waypoint {
   background: #fff;
 }
 section:nth-of-type(3) #gallery .mix .button:hover {
-  background: #e31b6d;
+  background: #1e88e5;
   color: #fff;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
@@ -825,7 +825,7 @@ section:nth-of-type(4) .blog-wrap.fade .fade-wrap {
   opacity: 0.4;
 }
 section:nth-of-type(4) .blog-wrap.hover .fade-wrap .label {
-  color: #04c2c9;
+  color: #1e88e5;
 }
 section:nth-of-type(4) .label {
   font-size: 12pt;
@@ -842,7 +842,7 @@ section:nth-of-type(4) .date {
   margin: 5px 0 0 0;
 }
 section:nth-of-type(4) .bar {
-  background: #04c2c9;
+  background: #1e88e5;
   height: 3px;
   margin: 10px 0px;
   width: 25%;
@@ -853,7 +853,7 @@ section:nth-of-type(4) .text {
   max-height: 85px;
 }
 section:nth-of-type(5) {
-  background: #252934;
+  background: #0a1a2f ;
   color: #fff;
   padding-top: 175px;
 }
@@ -866,7 +866,7 @@ section:nth-of-type(5) .header-bar {
   width: 110px;
 }
 section:nth-of-type(5) .highlight {
-  color: #04c2c9;
+  color: #1e88e5;
   font-weight: 600;
 }
 section:nth-of-type(5) svg {
@@ -906,7 +906,7 @@ section:nth-of-type(5) .button {
   padding: 10px 30px;
 }
 section:nth-of-type(5) .button:hover {
-  background: #04c2c9;
+  background: #1e88e5;
 }
 section:nth-of-type(5) #success {
   height: 0;
@@ -936,12 +936,12 @@ section:nth-of-type(5) #close {
 }
 
 footer {
-  background: #1b242f;
+  background: #0a1a2f ;
   padding: 70px 0 50px 0;
   position: relative;
 }
 footer .mdi-chevron-double-up {
-  background: #e31b6d;
+  background: #1e88e5;
   cursor: pointer;
   font-size: 30pt;
   height: 50px;
@@ -955,7 +955,7 @@ footer .mdi-chevron-double-up {
   width: 47px;
 }
 footer .mdi-chevron-double-up:hover {
-  background: #fb1f79;
+  background: #1e88e5;
 }
 footer .icon-wrap .icon {
   background: #262f38;
@@ -977,7 +977,7 @@ footer .icon-wrap .mdi.mdi-codepen {
   font-size: 20pt;
 }
 footer .icon-wrap .icon:hover {
-  background: #04c2c9;
+  background: #1e88e5;
   box-shadow: 0 0 0 3px rgba(4, 94, 201, 0.1);
   transform: scale(0.9);
 }
@@ -996,7 +996,7 @@ footer .footnote {
   opacity: 0.6;
 }
 footer .footnote .highlight {
-  color: #e31b6d;
+  color: #1e88e5;
   font-family: "Open Sans";
 }
 
@@ -1113,7 +1113,7 @@ footer .footnote .highlight {
     height: 250px;
   }
   section:nth-of-type(2) .bar {
-    font-size: 9pt;
+    font-size: 6pt;
     height: 28px;
     margin: 0 0 15px 0;
   }
@@ -1229,7 +1229,7 @@ footer .footnote .highlight {
     animation: popIn 1s both;
   }
   .canvas {
-    background: #252934;
+    background: #0a1a2f ;
   }
   .button {
     font-size: 16pt;
