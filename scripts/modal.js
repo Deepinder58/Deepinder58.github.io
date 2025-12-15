@@ -57,10 +57,10 @@ $(document).ready(function() {
         'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.'
     },
     themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
+      title: 'Network Packet Sniffer with Alert System',
+      tag: 'Real-time packet capture &anomaly detection.',
       detail:
-        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
+        'This project is a real-time network monitoring and security analysis tool developed using Python and Scapyy.The system captures live network packets, extracts key header information, and stores it in an SQLite database for analysis. An alert mechanism detects suspicious activities such as port scanning and abnormal traffic behaviour, helping identify potential attacks early. A traffic dashboard visualizes captured data, making network analysis more intuitive and effective.'
     }
   };
 
